@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VOXX Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt_find">Find</string>
+    <string name="bt_start">Start</string>
+    <string name="tv_find">Looking for wireless devices</string>
+
+</resources>
